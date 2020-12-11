@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M 0 0  L 1024 0  L 1024 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path43" />
+    <clipPath id="clip44">
+      <use xlink:href="#path43" />
+    </clipPath>
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter45">
+      <feColorMatrix type="matrix" values="0.3086 0.6094 0.082 0 0  0.3086 0.6094 0.082 0 0  0.3086 0.6094 0.082 0 0  0 0 0 1 0  " in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="matrix(1 0 0 1 -70 -140 )">
+    <g transform="matrix(0.0234375 0 0 0.0234375 70 140 )" clip-path="url(#clip44)" filter="url(#filter45)">
+      <path d="M426.666667 170.666667a64 64 0 0 1 64 64v554.666666a64 64 0 0 1-64 64h-192a64 64 0 0 1-64-64V234.666667a64 64 0 0 1 64-64h192z m362.666666 362.666666a64 64 0 0 1 64 64v192a64 64 0 0 1-64 64h-192a64 64 0 0 1-64-64v-192a64 64 0 0 1 64-64h192zM426.666667 234.666667h-192v554.666666h192V234.666667z m362.666666 362.666666h-192v192h192v-192z m0-426.666666a64 64 0 0 1 64 64v192a64 64 0 0 1-64 64h-192a64 64 0 0 1-64-64v-192a64 64 0 0 1 64-64h192z m0 64h-192v192h192v-192z" p-id="6679"></path>
+    </g>
+  </g>
+</svg>

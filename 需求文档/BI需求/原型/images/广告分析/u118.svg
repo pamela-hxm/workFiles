@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M 0 0  L 1024 0  L 1024 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path34" />
+    <clipPath id="clip35">
+      <use xlink:href="#path34" />
+    </clipPath>
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter36">
+      <feColorMatrix type="matrix" values="0.3086 0.6094 0.082 0 0  0.3086 0.6094 0.082 0 0  0.3086 0.6094 0.082 0 0  0 0 0 1 0  " in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="matrix(1 0 0 1 -374 -72 )">
+    <g transform="matrix(0.015625 0 0 0.015625 374 72 )" clip-path="url(#clip35)" filter="url(#filter36)">
+      <path d="M733.482667 170.666667a64 64 0 0 1 57.237333 35.370666l55.850667 111.68A64 64 0 0 1 853.333333 346.346667V554.666667h-64v-170.666667H234.666667v405.333333h320v64H234.666667a64 64 0 0 1-64-64V351.552a64 64 0 0 1 6.378666-27.84l56.469334-116.906667A64 64 0 0 1 291.136 170.666667h442.346667zM699.733333 597.333333a102.4 102.4 0 0 1 88.490667 153.962667l61.44 61.44-36.202667 36.202667-61.269333-61.248A102.4 102.4 0 1 1 699.733333 597.333333z m0 64a38.4 38.4 0 1 0 0 76.8 38.4 38.4 0 0 0 0-76.8zM469.333333 448v64h-170.666666v-64h170.666666z m-178.197333-213.333333l-41.237333 85.333333h526.272l-42.688-85.333333H291.136z" p-id="1647"></path>
+    </g>
+  </g>
+</svg>
